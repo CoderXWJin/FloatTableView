@@ -1,4 +1,4 @@
-# TableViewFloat
+# FloatTableView
 
 tableView滑动悬停
 
@@ -25,4 +25,3 @@ tableView滑动悬停
 }
 ```
 
-![参考](https://github.com/XueYangLee/TableViewFloat/blob/master/screen.gif)
